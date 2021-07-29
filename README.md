@@ -1,14 +1,14 @@
 ### Opa! Tudo certinho? Eu sou o Carlos Yago 😉🤞🏻
 
-- 🔭 Hoje trabalho com Business Intelligence na área de Prevenção à Fraudes
+- 📊 Hoje trabalho com Business Intelligence na área de Prevenção à Fraudes
 - 🌱 Estudando Python + Data science
-- 📫 Contate-me no email: yago.gds@gmail.com
-- 😄 Pronouns: ele/dele
+- 🌐 Nas horas vagas sou Coprodutor
+
 
  <div>
   <a href="https://github.com/yagogds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagogds&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagogds&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=yagogds&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagogds&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
   ##
