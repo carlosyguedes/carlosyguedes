@@ -1,4 +1,6 @@
-### Opa! Tudo certinho? Eu sou o Carlos Guedes 😉🤞🏻
+### Opa! Tudo certinho? Prazer, eu sou Carlos Guedes 😉🤞🏻
+
+### O que tenho feito ultimamente?
 
 - 📊 Hoje trabalho com Business Intelligence na área de Prevenção à Fraudes
 - 🌱 Estudando Python + Data science
